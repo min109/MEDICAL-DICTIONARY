@@ -1,9 +1,8 @@
-# medical-dictionary
+# MEDICAL DICTIONARY
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="uft-8">
-<title>MEDICAL DICTIONARY</title>
 </head>
 <body>
 <h1>Gyunghwa 101 Medical Dictionary - 독감</h1>
